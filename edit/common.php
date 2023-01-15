@@ -7,7 +7,7 @@
     用法：https://github.com/hgoebl/mobile-detect.js#readme
     也可至bloghelper取得： https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/js/mobile-detect.js
 -->
-<script src="https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/js/mobile-detect.js"></script>
+<script src="https://fastly.jsdelivr.net/gh/Steven999/blog@latest/js/mobile-detect.js"></script>
  
 <!--全页特效开始-->
 <script type="text/javascript">
@@ -22,25 +22,25 @@
         if(!md.tablet()){
  
             // 雪花
-//             $.getScript("https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/js/xiaxue.js");
+//             $.getScript("https://fastly.jsdelivr.net/gh/Steven999/blog@latest/js/xiaxue.js");
  
             // 樱花
-            $.getScript("https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/js/yinghua.js");
+            $.getScript("https://fastly.jsdelivr.net/gh/Steven999/blog@latest/js/yinghua.js");
  
             // 小烟花特效
-            $.getScript("https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/js/mouse-click.js");
+            $.getScript("https://fastly.jsdelivr.net/gh/Steven999/blog@latest/js/mouse-click.js");
  
             // 大烟花特效 z-index:217483647; pointer-events: none;
-//                 $.getScript("https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/mouse/mouse-click-02/mouse-canvas.js");
+//                 $.getScript("https://fastly.jsdelivr.net/gh/Steven999/blog@latest/mouse/mouse-click-02/mouse-canvas.js");
 //             document.write('<style>#mouse-canvas {z-index:217483647; pointer-events: none;  box-sizing: border-box !important; display: block !important; position: fixed !important; left: 0; right: 0; top: 0; bottom: 0; width: 100%; height: 100vh;}</style>')
  
             // 鼠标移动的仙女棒特效
-            $.getScript("https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/mouse/halo-dream/fairyDustCursor.min.js");
+            $.getScript("https://fastly.jsdelivr.net/gh/Steven999/blog@latest/mouse/halo-dream/fairyDustCursor.min.js");
  
         }
  
         // 春节灯笼
-//         document.write('<link href="https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/css/deng.css" rel="stylesheet">');
+//         document.write('<link href="https://fastly.jsdelivr.net/gh/Steven999/blog@latest/css/deng.css" rel="stylesheet">');
 //         document.write('<div class="deng-box"><div class="deng"><div class="xian"></div><div class="deng-a"><div class="deng-b"><div class="deng-t">春节</div></div></div><div class="shui shui-a"><div class="shui-c"></div><div class="shui-b"></div></div></div></div>');
 //         document.write('<div class="deng-box1"><div class="deng"><div class="xian"></div><div class="deng-a"><div class="deng-b"><div class="deng-t">快乐</div></div></div><div class="shui shui-a"><div class="shui-c"></div><div class="shui-b"></div></div></div></div>');  
  
@@ -55,7 +55,7 @@
 <!--鼠标悬停3D效果start-->
 <div class="article.post:not(.post-full)" data-tilt></div>
 <div class=".shuoshuo-preview-container" data-tilt></div>
-<script type="text/javascript" src="https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/vanilla3D/vanilla-tilt_v1.7.3.js"></script>
+<script type="text/javascript" src="https://fastly.jsdelivr.net/gh/Steven999/blog@latest/vanilla3D/vanilla-tilt_v1.7.3.js"></script>
 <script type="text/javascript">
     // 设备检测
     var md = new MobileDetect(window.navigator.userAgent);
@@ -158,15 +158,15 @@
  
 <!--鼠标指针特效2 开始-->
 <style type="text/css">
-    .main-content img,body{cursor:url(https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/mouse/halo-dream/cursor/breeze/Arrow.cur),auto}.actions>div,.expand-done,.main-content figure>figcaption div,.navbar-above .navbar-nav .item,.navbar-searchicon,.navbar-slideicon,.photos .picture-details,.widget .ad-tag .click-close,a,button{cursor:url(https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/mouse/halo-dream/cursor/breeze/Hand.cur),auto}blockquote,code,h1,h2,h3,h4,h5,h6,hr,input[type=text],li,p,td,textarea,th{cursor:url(https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/mouse/halo-dream/cursor/breeze/IBeam.cur),auto}
+    .main-content img,body{cursor:url(https://fastly.jsdelivr.net/gh/Steven999/blog@latest/mouse/halo-dream/cursor/breeze/Arrow.cur),auto}.actions>div,.expand-done,.main-content figure>figcaption div,.navbar-above .navbar-nav .item,.navbar-searchicon,.navbar-slideicon,.photos .picture-details,.widget .ad-tag .click-close,a,button{cursor:url(https://fastly.jsdelivr.net/gh/Steven999/blog@latest/mouse/halo-dream/cursor/breeze/Hand.cur),auto}blockquote,code,h1,h2,h3,h4,h5,h6,hr,input[type=text],li,p,td,textarea,th{cursor:url(https://fastly.jsdelivr.net/gh/Steven999/blog@latest/mouse/halo-dream/cursor/breeze/IBeam.cur),auto}
 </style>
  
  
 <!--网站输入效果-->
-<script src="https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/js/input-with-fire.js"></script>
+<script src="https://fastly.jsdelivr.net/gh/Steven999/blog@latest/js/input-with-fire.js"></script>
  
 <!--主题搞笑字符-->
-<!-- <script src="https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/js/onfocus.js"></script> -->
+<!-- <script src="https://fastly.jsdelivr.net/gh/Steven999/blog@latest/js/onfocus.js"></script> -->
  
 <!--文字抖动特效-->
-<link href="https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/css/myface.css" rel="stylesheet">
+<link href="https://fastly.jsdelivr.net/gh/Steven999/blog@latest/css/myface.css" rel="stylesheet">
